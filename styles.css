@@ -1,0 +1,19 @@
+h1 {
+  color: #ff0000;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+}
+body {
+  background-color: pink;
+}
+body {
+  border-style: dotted
+}
+body {
+  text-align: center
+}
+img {
+  width: 300px;
+  height: 150px;
+}
